@@ -6,7 +6,7 @@ This project, developed for the **DSA210 course during the Fall 2024 semester**,
 ---
 
 ## Hypothesis
-Strategically adding players to my NBA Fantasy team by analyzing data-driven factors such as timing of additions, matchup advantages, player roles, and retention patterns will significantly improve my team’s weekly performance. By understanding how different variables—such as the day of the week players are added, their contributions relative to league averages, and their impact on specific matchups—affect overall team performance, I hypothesize that I can develop an optimal decision-making framework. This framework will maximize fantasy points, reduce reliance on guesswork, and provide actionable strategies for long-term success in the league.*
+Strategically adding players to my NBA Fantasy team by analyzing data-driven factors such as timing of additions, matchup advantages, player roles, and retention patterns will significantly improve my team’s weekly performance. By understanding how different variables—such as the day of the week players are added, their contributions relative to league averages, and their impact on specific matchups—affect overall team performance, I hypothesize that I can develop an optimal decision-making framework. This framework will maximize fantasy points, reduce reliance on guesswork, and provide actionable strategies for long-term success in the league.
 ---
 
 ## Dataset
