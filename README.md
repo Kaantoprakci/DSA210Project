@@ -32,9 +32,12 @@ The dataset is derived from my ESPN Fantasy account and personalized through add
    - Performance based on **days of the week** (e.g., does adding players on certain days yield better results?).
    - Optimal times for adding players to maximize contributions.
 
-5. **External Data for Context:**
-   - Opponent defensive ratings for added players.
-   - Historical performance trends against specific matchups.
+5. **Player Position and NBA Team Analysis:**
+   - **Player Position:** Positions (e.g., PG, SG, SF, PF, C) for each player and their average contributions.
+   - **NBA Team:** The NBA team each player belongs to and their impact on fantasy points.
+   - **Analysis Goals:**
+     - Identify which positions provide the highest fantasy points.
+     - Determine which NBA teams' players contribute the most to fantasy success.
 
 ---
 
@@ -66,25 +69,7 @@ Managing an NBA Fantasy team is an engaging yet challenging task, especially wit
      - Weekly fantasy points from added players.
      - Retention duration vs. contribution trends.
 
----
 
-## Expected Outcomes
-- **Timing Patterns:** Certain days or times of the week may yield better results for player additions.
-- **Retention Value:** Players retained for specific durations may offer higher contributions.
-- **Player Type Insights:** Different player roles (e.g., scorers, defenders) may have varying impacts depending on the context.
 
----
-
-## Limitations
-1. **Sample Size:** The dataset is limited to my personal fantasy team.
-2. **Subjectivity:** Manual tracking of reasons for player additions may introduce bias.
-3. **External Factors:** Unexpected events like injuries or trades could affect analysis accuracy.
-
----
-
-## Future Work
-1. **Automation:** Develop scripts to automatically log player additions and their impacts.
-2. **Expanded Dataset:** Include league-wide data for broader analysis.
-3. **Recommendation System:** Build a tool to suggest optimal weekly player additions based on historical data.
 
 
