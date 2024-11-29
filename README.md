@@ -1,91 +1,90 @@
 # NBA Fantasy Team Optimization Project
 
-# Description
-This project, developed for the DSA210 course during the Fall 2024 semester, focuses on optimizing my NBA Fantasy team by leveraging data-driven insights. The primary goal is to enhance my team’s performance by analyzing player statistics, predicting future outcomes, and implementing strategies for better lineup and trade decisions. By combining exploratory data analysis, data visualization, and predictive modeling, the project provides actionable recommendations to improve team results while applying and strengthening my data science skills.
-
 ## Project Objective
-The goal of this project is to optimize my NBA Fantasy team by analyzing the performance data of my current roster. Using data analysis and machine learning techniques, I aim to evaluate player performances and develop strategies to improve my team's overall efficiency and results.
-
-## Dataset
-
-The dataset for this project is maintained in an **Excel spreadsheet** and contains detailed historical performance data from my NBA Fantasy team. The key features include:
-
-1. **Player Statistics:**
-   - Points, rebounds, assists, blocks, steals, turnovers.
-   - Shooting percentages (field goal, free throw, three-point).
-   - Average fantasy points scored per game.
-
-2. **Player Information:**
-   - Player names, positions, and lineup roles.
-   - Injury or availability status.
-
-3. **Game and Opponent Details:**
-   - Match dates, opposing teams, and matchup statistics.
-   - Defensive ratings and head-to-head performance records of opponents.
-
-The data is collected by exporting team statistics from the NBA Fantasy platform and enhanced with publicly available NBA player and team performance data.
+This project, developed for the **DSA210 course during the Fall 2024 semester**, aims to optimize my NBA Fantasy team's performance by leveraging data-driven insights. Using personalized data from my ESPN Fantasy account, the project focuses on understanding the impact of weekly player additions, retention patterns, and timing of decisions on overall team performance. The ultimate goal is to develop strategies that maximize weekly fantasy points and improve decision-making.
 
 ---
 
-## Project Idea
+## Hypothesis
+*Strategically adding players to my NBA Fantasy team by analyzing data-driven factors such as timing of additions, matchup advantages, player roles, and retention patterns will significantly improve my team’s weekly performance. By understanding how different variables—such as the day of the week players are added, their contributions relative to league averages, and their impact on specific matchups—affect overall team performance, I hypothesize that I can develop an optimal decision-making framework. This framework will maximize fantasy points, reduce reliance on guesswork, and provide actionable strategies for long-term success in the league.*
+---
 
-The aim of the project is to use data analysis and machine learning techniques to optimize my NBA Fantasy team's performance. Key objectives include:
+## Dataset
 
-1. **Performance Prediction:** Use historical data to forecast player fantasy points for upcoming games.
-2. **Lineup Optimization:** Identify the optimal starting lineup for each game week.
-3. **Trade Analysis:** Suggest potential player trades to strengthen the team.
+The dataset is derived from my ESPN Fantasy account and personalized through additional tracking. Key components include:
+
+1. **Weekly Player Additions:**
+   - Names of players added to my team each week.
+   - **Date and time** of each addition.
+   - **Reason for addition** (e.g., injury replacement, matchup advantage).
+
+2. **Player Performance on My Team:**
+   - Fantasy points contributed during their tenure.
+   - Game-specific statistics (points, rebounds, assists, steals, etc.).
+   - Comparison of their performance to season averages.
+
+3. **Retention and Impact Data:**
+   - **Duration** each player stayed on my team.
+   - Their contribution to my team’s weekly total score.
+   - Timing and reasoning for player drops.
+
+4. **Timing Insights:**
+   - Performance based on **days of the week** (e.g., does adding players on certain days yield better results?).
+   - Optimal times for adding players to maximize contributions.
+
+5. **External Data for Context:**
+   - Opponent defensive ratings for added players.
+   - Historical performance trends against specific matchups.
+
+---
+
+## Motivation
+Managing an NBA Fantasy team is an engaging yet challenging task, especially with limited weekly player addition slots. This project aims to analyze the timing and impact of my decisions to uncover patterns that can optimize my team's performance. Combining my passion for basketball with data science, this project not only helps in improving my fantasy league strategy but also provides practical experience in data analysis and modeling.
 
 ---
 
 ## Project Plan
 
-1. **Data Collection and Preparation:**
-   - Export NBA Fantasy team data into an Excel file.
-   - Clean and organize the data, ensuring consistency and accuracy.
-   - Enrich the dataset with additional columns for opponent matchups and injury reports.
+1. **Data Collection and Personalization:**
+   - Export player performance and weekly team data from ESPN using the API.
+   - Manually log the **date, time, and reason** for each player addition.
+   - Enrich the dataset with opponent statistics and player matchups.
 
 2. **Exploratory Data Analysis (EDA):**
-   - Perform descriptive analysis to identify trends and patterns in player performance.
-   - Visualize data using Excel charts, Python, or Tableau for better insights.
+   - Analyze weekly player additions and their impact on team performance.
+   - Identify trends in retention duration and player contributions.
 
 3. **Predictive Modeling:**
-   - Apply regression models to predict player performance based on historical data.
-   - Use clustering techniques to group players into performance tiers.
+   - Use regression models to predict player impact based on timing and matchups.
+   - Apply clustering to categorize players by retention value and performance.
 
-4. **Optimization and Insights:**
-   - Generate actionable recommendations for lineup adjustments and trades.
-   - Develop a strategy to maximize fantasy points in the league.
+4. **Optimization:**
+   - Develop strategies for maximizing weekly points through better timing and player selection.
 
-5. **Final Deliverables:**
-   - A cleaned and structured Excel dataset.
-   - Analysis scripts, visualizations, and insights available in a GitHub repository.
-   - A detailed project report summarizing findings and future opportunities.
-
----
-
-## Findings
-
-Through this project, I expect to:
-- Gain a deeper understanding of player trends and team dynamics.
-- Learn how to make data-driven decisions for lineup and trade strategies.
-- Develop technical skills in data cleaning, visualization, and machine learning.
+5. **Visualization:**
+   - Create charts to illustrate key findings, such as:
+     - Weekly fantasy points from added players.
+     - Retention duration vs. contribution trends.
 
 ---
 
-## Limitations and Future Work
-
-**Limitations:**
-- The dataset is specific to my fantasy team and does not include league-wide data for broader comparisons.
-- Injury updates and real-time data are not fully integrated, which may affect prediction accuracy.
-- Predictive models are relatively basic and can be further optimized.
-
-**Future Work:**
-1. Expand the dataset to include league-wide player statistics for benchmarking.
-2. Integrate real-time data feeds for injury and performance updates.
-3. Use advanced machine learning techniques, such as neural networks, for better predictions.
-4. Build an interactive dashboard for automated analysis and insights.
+## Expected Outcomes
+- **Timing Patterns:** Certain days or times of the week may yield better results for player additions.
+- **Retention Value:** Players retained for specific durations may offer higher contributions.
+- **Player Type Insights:** Different player roles (e.g., scorers, defenders) may have varying impacts depending on the context.
 
 ---
 
-## Author
-- [KAAN TOPRAKÇI]
+## Limitations
+1. **Sample Size:** The dataset is limited to my personal fantasy team.
+2. **Subjectivity:** Manual tracking of reasons for player additions may introduce bias.
+3. **External Factors:** Unexpected events like injuries or trades could affect analysis accuracy.
+
+---
+
+## Future Work
+1. **Automation:** Develop scripts to automatically log player additions and their impacts.
+2. **Expanded Dataset:** Include league-wide data for broader analysis.
+3. **Recommendation System:** Build a tool to suggest optimal weekly player additions based on historical data.
+
+
