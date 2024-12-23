@@ -1,0 +1,4142 @@
+[
+    {
+        "name": "Anthony Edwards",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 1291.4
+    },
+    {
+        "name": "Karl-Anthony Towns",
+        "position": "C",
+        "team": "NYK",
+        "total_points": 1445.3
+    },
+    {
+        "name": "Jeremy Sochan",
+        "position": "PF",
+        "team": "SAS",
+        "total_points": 528.5
+    },
+    {
+        "name": "Jalen Williams",
+        "position": "PF",
+        "team": "OKC",
+        "total_points": 1280.3
+    },
+    {
+        "name": "Bradley Beal",
+        "position": "SF",
+        "team": "PHO",
+        "total_points": 610.7
+    },
+    {
+        "name": "Dereck Lively II",
+        "position": "C",
+        "team": "DAL",
+        "total_points": 681.5
+    },
+    {
+        "name": "Jarrett Allen",
+        "position": "C",
+        "team": "CLE",
+        "total_points": 1033.8
+    },
+    {
+        "name": "Lauri Markkanen",
+        "position": "PF",
+        "team": "UTA",
+        "total_points": 784.5
+    },
+    {
+        "name": "Payton Pritchard",
+        "position": "PG",
+        "team": "BOS",
+        "total_points": 940.8
+    },
+    {
+        "name": "Royce O'Neale",
+        "position": "SF",
+        "team": "PHO",
+        "total_points": 778.4
+    },
+    {
+        "name": "Mike Conley",
+        "position": "PG",
+        "team": "MIN",
+        "total_points": 554.4
+    },
+    {
+        "name": "Andrew Nembhard",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 337.8
+    },
+    {
+        "name": "Kevin Huerter",
+        "position": "SG",
+        "team": "SAC",
+        "total_points": 601.2
+    },
+    {
+        "name": "Darius Garland",
+        "position": "PG",
+        "team": "CLE",
+        "total_points": 1134.9
+    },
+    {
+        "name": "De'Aaron Fox",
+        "position": "PG",
+        "team": "SAC",
+        "total_points": 1474.0
+    },
+    {
+        "name": "Rudy Gobert",
+        "position": "C",
+        "team": "MIN",
+        "total_points": 897.7
+    },
+    {
+        "name": "Jordan Poole",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 936.5
+    },
+    {
+        "name": "Jusuf Nurkic",
+        "position": "C",
+        "team": "PHO",
+        "total_points": 547.4
+    },
+    {
+        "name": "Bennedict Mathurin",
+        "position": "SF",
+        "team": "IND",
+        "total_points": 907.2
+    },
+    {
+        "name": "Trey Murphy III",
+        "position": "SF",
+        "team": "NOP",
+        "total_points": 633.0
+    },
+    {
+        "name": "Tari Eason",
+        "position": "SF",
+        "team": "HOU",
+        "total_points": 736.7
+    },
+    {
+        "name": "Andrew Wiggins",
+        "position": "SF",
+        "team": "GSW",
+        "total_points": 775.3
+    },
+    {
+        "name": "Luka Doncic",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 1245.2
+    },
+    {
+        "name": "Coby White",
+        "position": "PG",
+        "team": "CHI",
+        "total_points": 934.3
+    },
+    {
+        "name": "Yves Missi",
+        "position": "C",
+        "team": "NOP",
+        "total_points": 801.8
+    },
+    {
+        "name": "Naz Reid",
+        "position": "C",
+        "team": "MIN",
+        "total_points": 732.3
+    },
+    {
+        "name": "Josh Green",
+        "position": "SG",
+        "team": "CHA",
+        "total_points": 459.9
+    },
+    {
+        "name": "Mikal Bridges",
+        "position": "SF",
+        "team": "NYK",
+        "total_points": 985.4
+    },
+    {
+        "name": "Victor Wembanyama",
+        "position": "C",
+        "team": "SAS",
+        "total_points": 1389.8
+    },
+    {
+        "name": "Jalen Duren",
+        "position": "C",
+        "team": "DET",
+        "total_points": 734.8
+    },
+    {
+        "name": "Miles Bridges",
+        "position": "SF",
+        "team": "CHA",
+        "total_points": 504.9
+    },
+    {
+        "name": "Fred VanVleet",
+        "position": "PG",
+        "team": "HOU",
+        "total_points": 936.6
+    },
+    {
+        "name": "Desmond Bane",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 739.4
+    },
+    {
+        "name": "D'Angelo Russell",
+        "position": "PG",
+        "team": "LAL",
+        "total_points": 747.1
+    },
+    {
+        "name": "Nic Claxton",
+        "position": "C",
+        "team": "BKN",
+        "total_points": 618.2
+    },
+    {
+        "name": "Jerami Grant",
+        "position": "PF",
+        "team": "POR",
+        "total_points": 796.9
+    },
+    {
+        "name": "Dyson Daniels",
+        "position": "SG",
+        "team": "ATL",
+        "total_points": 992.2
+    },
+    {
+        "name": "Chris Paul",
+        "position": "PG",
+        "team": "SAS",
+        "total_points": 928.5
+    },
+    {
+        "name": "Harrison Barnes",
+        "position": "PF",
+        "team": "SAS",
+        "total_points": 602.3
+    },
+    {
+        "name": "Jaylen Wells",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 638.5
+    },
+    {
+        "name": "Nikola Vucevic",
+        "position": "C",
+        "team": "CHI",
+        "total_points": 1327.1
+    },
+    {
+        "name": "Tyrese Haliburton",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 1252.5
+    },
+    {
+        "name": "Kyrie Irving",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 1150.7
+    },
+    {
+        "name": "DeMar DeRozan",
+        "position": "SF",
+        "team": "SAC",
+        "total_points": 970.2
+    },
+    {
+        "name": "Cade Cunningham",
+        "position": "PG",
+        "team": "DET",
+        "total_points": 1356.9
+    },
+    {
+        "name": "Alexandre Sarr",
+        "position": "C",
+        "team": "WAS",
+        "total_points": 713.6
+    },
+    {
+        "name": "Khris Middleton",
+        "position": "SF",
+        "team": "MIL",
+        "total_points": 161.2
+    },
+    {
+        "name": "Jalen Suggs",
+        "position": "PG",
+        "team": "ORL",
+        "total_points": 986.9
+    },
+    {
+        "name": "Shaedon Sharpe",
+        "position": "SG",
+        "team": "POR",
+        "total_points": 603.2
+    },
+    {
+        "name": "Zach Edey",
+        "position": "C",
+        "team": "MEM",
+        "total_points": 468.7
+    },
+    {
+        "name": "Nick Richards",
+        "position": "C",
+        "team": "CHA",
+        "total_points": 377.0
+    },
+    {
+        "name": "Kevin Porter Jr.",
+        "position": "SG",
+        "team": "LAC",
+        "total_points": 558.1
+    },
+    {
+        "name": "Terry Rozier",
+        "position": "PG",
+        "team": "MIA",
+        "total_points": 612.0
+    },
+    {
+        "name": "Ja Morant",
+        "position": "PG",
+        "team": "MEM",
+        "total_points": 736.6
+    },
+    {
+        "name": "Trae Young",
+        "position": "PG",
+        "team": "ATL",
+        "total_points": 1288.0
+    },
+    {
+        "name": "James Harden",
+        "position": "PG",
+        "team": "LAC",
+        "total_points": 1329.0
+    },
+    {
+        "name": "CJ McCollum",
+        "position": "SG",
+        "team": "NOP",
+        "total_points": 665.6
+    },
+    {
+        "name": "Jaren Jackson Jr.",
+        "position": "C",
+        "team": "MEM",
+        "total_points": 1162.4
+    },
+    {
+        "name": "Daniel Gafford",
+        "position": "C",
+        "team": "DAL",
+        "total_points": 776.1
+    },
+    {
+        "name": "Jrue Holiday",
+        "position": "PG",
+        "team": "BOS",
+        "total_points": 702.8
+    },
+    {
+        "name": "Walker Kessler",
+        "position": "C",
+        "team": "UTA",
+        "total_points": 775.8
+    },
+    {
+        "name": "Clint Capela",
+        "position": "C",
+        "team": "ATL",
+        "total_points": 841.7
+    },
+    {
+        "name": "Dennis Schroder",
+        "position": "PG",
+        "team": "GSW",
+        "total_points": 896.9
+    },
+    {
+        "name": "Draymond Green",
+        "position": "PF",
+        "team": "GSW",
+        "total_points": 707.3
+    },
+    {
+        "name": "Kelly Oubre Jr.",
+        "position": "SF",
+        "team": "PHL",
+        "total_points": 755.3
+    },
+    {
+        "name": "Toumani Camara",
+        "position": "PF",
+        "team": "POR",
+        "total_points": 692.1
+    },
+    {
+        "name": "Pascal Siakam",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 1193.5
+    },
+    {
+        "name": "Jalen Brunson",
+        "position": "PG",
+        "team": "NYK",
+        "total_points": 1278.7
+    },
+    {
+        "name": "Derrick White",
+        "position": "SG",
+        "team": "BOS",
+        "total_points": 1085.2
+    },
+    {
+        "name": "LaMelo Ball",
+        "position": "PG",
+        "team": "CHA",
+        "total_points": 1106.2
+    },
+    {
+        "name": "Julius Randle",
+        "position": "PF",
+        "team": "MIN",
+        "total_points": 1021.2
+    },
+    {
+        "name": "Brook Lopez",
+        "position": "C",
+        "team": "MIL",
+        "total_points": 826.0
+    },
+    {
+        "name": "Keldon Johnson",
+        "position": "SF",
+        "team": "SAS",
+        "total_points": 647.5
+    },
+    {
+        "name": "Onyeka Okongwu",
+        "position": "C",
+        "team": "ATL",
+        "total_points": 671.2
+    },
+    {
+        "name": "LeBron James",
+        "position": "SF",
+        "team": "LAL",
+        "total_points": 1357.0
+    },
+    {
+        "name": "P.J. Washington",
+        "position": "PF",
+        "team": "DAL",
+        "total_points": 750.6
+    },
+    {
+        "name": "Jaden McDaniels",
+        "position": "SF",
+        "team": "MIN",
+        "total_points": 695.1
+    },
+    {
+        "name": "Malcolm Brogdon",
+        "position": "PG",
+        "team": "WAS",
+        "total_points": 293.5
+    },
+    {
+        "name": "Dillon Brooks",
+        "position": "SF",
+        "team": "HOU",
+        "total_points": 737.2
+    },
+    {
+        "name": "Georges Niang",
+        "position": "PF",
+        "team": "CLE",
+        "total_points": 559.9
+    },
+    {
+        "name": "Jalen Green",
+        "position": "SG",
+        "team": "HOU",
+        "total_points": 960.1
+    },
+    {
+        "name": "Franz Wagner",
+        "position": "SF",
+        "team": "ORL",
+        "total_points": 1223.5
+    },
+    {
+        "name": "Tyler Herro",
+        "position": "SG",
+        "team": "MIA",
+        "total_points": 1184.3
+    },
+    {
+        "name": "Bogdan Bogdanovic",
+        "position": "SG",
+        "team": "ATL",
+        "total_points": 323.8
+    },
+    {
+        "name": "Cameron Johnson",
+        "position": "SF",
+        "team": "BKN",
+        "total_points": 1017.8
+    },
+    {
+        "name": "OG Anunoby",
+        "position": "SF",
+        "team": "NYK",
+        "total_points": 1032.3
+    },
+    {
+        "name": "Anthony Davis",
+        "position": "C",
+        "team": "LAL",
+        "total_points": 1574.3
+    },
+    {
+        "name": "Bilal Coulibaly",
+        "position": "SF",
+        "team": "WAS",
+        "total_points": 801.6
+    },
+    {
+        "name": "Gradey Dick",
+        "position": "SG",
+        "team": "TOR",
+        "total_points": 746.2
+    },
+    {
+        "name": "Brandon Ingram",
+        "position": "SF",
+        "team": "NOP",
+        "total_points": 772.5
+    },
+    {
+        "name": "Donovan Mitchell",
+        "position": "SG",
+        "team": "CLE",
+        "total_points": 1272.7
+    },
+    {
+        "name": "Julian Champagnie",
+        "position": "SF",
+        "team": "SAS",
+        "total_points": 774.7
+    },
+    {
+        "name": "Justin Champagnie",
+        "position": "SF",
+        "team": "WAS",
+        "total_points": 248.8
+    },
+    {
+        "name": "Wendell Carter Jr.",
+        "position": "C",
+        "team": "ORL",
+        "total_points": 406.1
+    },
+    {
+        "name": "Jonas Valanciunas",
+        "position": "C",
+        "team": "WAS",
+        "total_points": 732.9
+    },
+    {
+        "name": "Kawhi Leonard",
+        "position": "SF",
+        "team": "LAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Russell Westbrook",
+        "position": "PG",
+        "team": "DEN",
+        "total_points": 843.4
+    },
+    {
+        "name": "Tyus Jones",
+        "position": "PG",
+        "team": "PHO",
+        "total_points": 887.1
+    },
+    {
+        "name": "Jakob Poeltl",
+        "position": "C",
+        "team": "TOR",
+        "total_points": 1065.9
+    },
+    {
+        "name": "Michael Porter Jr.",
+        "position": "SF",
+        "team": "DEN",
+        "total_points": 989.7
+    },
+    {
+        "name": "Joel Embiid",
+        "position": "C",
+        "team": "PHL",
+        "total_points": 297.2
+    },
+    {
+        "name": "Brandon Boston",
+        "position": "SG",
+        "team": "NOP",
+        "total_points": 711.6
+    },
+    {
+        "name": "Josh Hart",
+        "position": "SF",
+        "team": "NYK",
+        "total_points": 1099.2
+    },
+    {
+        "name": "Kyle Kuzma",
+        "position": "PF",
+        "team": "WAS",
+        "total_points": 329.4
+    },
+    {
+        "name": "Scottie Barnes",
+        "position": "SF",
+        "team": "TOR",
+        "total_points": 733.7
+    },
+    {
+        "name": "Brandon Clarke",
+        "position": "PF",
+        "team": "MEM",
+        "total_points": 570.6
+    },
+    {
+        "name": "Dalton Knecht",
+        "position": "SG",
+        "team": "LAL",
+        "total_points": 551.6
+    },
+    {
+        "name": "Brandin Podziemski",
+        "position": "SG",
+        "team": "GSW",
+        "total_points": 597.4
+    },
+    {
+        "name": "Dejounte Murray",
+        "position": "SG",
+        "team": "NOP",
+        "total_points": 539.4
+    },
+    {
+        "name": "Domantas Sabonis",
+        "position": "C",
+        "team": "SAC",
+        "total_points": 1496.3
+    },
+    {
+        "name": "Stephen Curry",
+        "position": "PG",
+        "team": "GSW",
+        "total_points": 1031.3
+    },
+    {
+        "name": "Damian Lillard",
+        "position": "PG",
+        "team": "MIL",
+        "total_points": 1079.3
+    },
+    {
+        "name": "Jaden Ivey",
+        "position": "SG",
+        "team": "DET",
+        "total_points": 861.7
+    },
+    {
+        "name": "Aaron Gordon",
+        "position": "PF",
+        "team": "DEN",
+        "total_points": 451.6
+    },
+    {
+        "name": "Amen Thompson",
+        "position": "SF",
+        "team": "HOU",
+        "total_points": 818.0
+    },
+    {
+        "name": "Deni Avdija",
+        "position": "SF",
+        "team": "POR",
+        "total_points": 807.0
+    },
+    {
+        "name": "Ayo Dosunmu",
+        "position": "SG",
+        "team": "CHI",
+        "total_points": 887.8
+    },
+    {
+        "name": "Stephon Castle",
+        "position": "PG",
+        "team": "SAS",
+        "total_points": 625.0
+    },
+    {
+        "name": "Obi Toppin",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 697.0
+    },
+    {
+        "name": "Larry Nance Jr.",
+        "position": "PF",
+        "team": "ATL",
+        "total_points": 300.3
+    },
+    {
+        "name": "Cole Anthony",
+        "position": "PG",
+        "team": "ORL",
+        "total_points": 368.5
+    },
+    {
+        "name": "Jayson Tatum",
+        "position": "PF",
+        "team": "BOS",
+        "total_points": 1488.2
+    },
+    {
+        "name": "Brandon Miller",
+        "position": "SF",
+        "team": "CHA",
+        "total_points": 906.3
+    },
+    {
+        "name": "Jonathan Kuminga",
+        "position": "PF",
+        "team": "GSW",
+        "total_points": 694.3
+    },
+    {
+        "name": "Jordan Clarkson",
+        "position": "SG",
+        "team": "UTA",
+        "total_points": 485.2
+    },
+    {
+        "name": "Kevin Durant",
+        "position": "PF",
+        "team": "PHO",
+        "total_points": 855.4
+    },
+    {
+        "name": "Isaiah Hartenstein",
+        "position": "C",
+        "team": "OKC",
+        "total_points": 482.1
+    },
+    {
+        "name": "Mark Williams",
+        "position": "C",
+        "team": "CHA",
+        "total_points": 148.1
+    },
+    {
+        "name": "Malik Monk",
+        "position": "SG",
+        "team": "SAC",
+        "total_points": 781.6
+    },
+    {
+        "name": "Alperen Sengun",
+        "position": "C",
+        "team": "HOU",
+        "total_points": 1309.0
+    },
+    {
+        "name": "Jaylen Brown",
+        "position": "SF",
+        "team": "BOS",
+        "total_points": 993.8
+    },
+    {
+        "name": "Herbert Jones",
+        "position": "SF",
+        "team": "NOP",
+        "total_points": 332.1
+    },
+    {
+        "name": "T.J. McConnell",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 763.5
+    },
+    {
+        "name": "Luguentz Dort",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 726.5
+    },
+    {
+        "name": "Quentin Grimes",
+        "position": "SG",
+        "team": "DAL",
+        "total_points": 520.2
+    },
+    {
+        "name": "Zion Williamson",
+        "position": "PF",
+        "team": "NOP",
+        "total_points": 253.1
+    },
+    {
+        "name": "Jamal Murray",
+        "position": "PG",
+        "team": "DEN",
+        "total_points": 867.7
+    },
+    {
+        "name": "Devin Booker",
+        "position": "PG",
+        "team": "PHO",
+        "total_points": 1194.5
+    },
+    {
+        "name": "Bam Adebayo",
+        "position": "C",
+        "team": "MIA",
+        "total_points": 1102.4
+    },
+    {
+        "name": "Devin Vassell",
+        "position": "SG",
+        "team": "SAS",
+        "total_points": 390.7
+    },
+    {
+        "name": "Myles Turner",
+        "position": "C",
+        "team": "IND",
+        "total_points": 971.4
+    },
+    {
+        "name": "Klay Thompson",
+        "position": "SG",
+        "team": "DAL",
+        "total_points": 681.1
+    },
+    {
+        "name": "Austin Reaves",
+        "position": "SG",
+        "team": "LAL",
+        "total_points": 798.0
+    },
+    {
+        "name": "Keegan Murray",
+        "position": "PF",
+        "team": "SAC",
+        "total_points": 862.5
+    },
+    {
+        "name": "Bobby Portis",
+        "position": "PF",
+        "team": "MIL",
+        "total_points": 836.4
+    },
+    {
+        "name": "John Collins",
+        "position": "PF",
+        "team": "UTA",
+        "total_points": 1014.8
+    },
+    {
+        "name": "Ben Simmons",
+        "position": "PG",
+        "team": "BKN",
+        "total_points": 562.2
+    },
+    {
+        "name": "Ausar Thompson",
+        "position": "SF",
+        "team": "DET",
+        "total_points": 164.7
+    },
+    {
+        "name": "Noah Clowney",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 319.6
+    },
+    {
+        "name": "Paolo Banchero",
+        "position": "PF",
+        "team": "ORL",
+        "total_points": 263.3
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "position": "PF",
+        "team": "MIL",
+        "total_points": 1532.6
+    },
+    {
+        "name": "Paul George",
+        "position": "SF",
+        "team": "PHL",
+        "total_points": 607.3
+    },
+    {
+        "name": "Immanuel Quickley",
+        "position": "PG",
+        "team": "TOR",
+        "total_points": 81.2
+    },
+    {
+        "name": "Josh Giddey",
+        "position": "SG",
+        "team": "CHI",
+        "total_points": 917.1
+    },
+    {
+        "name": "Jabari Smith Jr.",
+        "position": "PF",
+        "team": "HOU",
+        "total_points": 782.4
+    },
+    {
+        "name": "RJ Barrett",
+        "position": "SF",
+        "team": "TOR",
+        "total_points": 1083.9
+    },
+    {
+        "name": "Keyonte George",
+        "position": "PG",
+        "team": "UTA",
+        "total_points": 789.3
+    },
+    {
+        "name": "Norman Powell",
+        "position": "SG",
+        "team": "LAC",
+        "total_points": 902.1
+    },
+    {
+        "name": "Christian Braun",
+        "position": "SG",
+        "team": "DEN",
+        "total_points": 798.3
+    },
+    {
+        "name": "Goga Bitadze",
+        "position": "C",
+        "team": "ORL",
+        "total_points": 751.7
+    },
+    {
+        "name": "Cody Martin",
+        "position": "SG",
+        "team": "CHA",
+        "total_points": 682.7
+    },
+    {
+        "name": "Jonathan Mogbo",
+        "position": "PF",
+        "team": "TOR",
+        "total_points": 502.1
+    },
+    {
+        "name": "Chris Boucher",
+        "position": "PF",
+        "team": "TOR",
+        "total_points": 556.4
+    },
+    {
+        "name": "Cam Thomas",
+        "position": "SG",
+        "team": "BKN",
+        "total_points": 653.5
+    },
+    {
+        "name": "Tyrese Maxey",
+        "position": "PG",
+        "team": "PHL",
+        "total_points": 924.7
+    },
+    {
+        "name": "Nikola Jokic",
+        "position": "C",
+        "team": "DEN",
+        "total_points": 1718.6
+    },
+    {
+        "name": "Tobias Harris",
+        "position": "PF",
+        "team": "DET",
+        "total_points": 862.1
+    },
+    {
+        "name": "Jalen Johnson",
+        "position": "PF",
+        "team": "ATL",
+        "total_points": 1315.1
+    },
+    {
+        "name": "Chet Holmgren",
+        "position": "C",
+        "team": "OKC",
+        "total_points": 408.9
+    },
+    {
+        "name": "Buddy Hield",
+        "position": "SG",
+        "team": "GSW",
+        "total_points": 743.9
+    },
+    {
+        "name": "De'Andre Hunter",
+        "position": "SF",
+        "team": "ATL",
+        "total_points": 599.4
+    },
+    {
+        "name": "Kentavious Caldwell-Pope",
+        "position": "SG",
+        "team": "ORL",
+        "total_points": 629.8
+    },
+    {
+        "name": "Santi Aldama",
+        "position": "PF",
+        "team": "MEM",
+        "total_points": 988.2
+    },
+    {
+        "name": "Guerschon Yabusele",
+        "position": "PF",
+        "team": "PHL",
+        "total_points": 573.2
+    },
+    {
+        "name": "Rui Hachimura",
+        "position": "PF",
+        "team": "LAL",
+        "total_points": 654.7
+    },
+    {
+        "name": "Donte DiVincenzo",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 622.4
+    },
+    {
+        "name": "Reed Sheppard",
+        "position": "SG",
+        "team": "HOU",
+        "total_points": 250.5
+    },
+    {
+        "name": "Jimmy Butler",
+        "position": "SF",
+        "team": "MIA",
+        "total_points": 780.0
+    },
+    {
+        "name": "Shai Gilgeous-Alexander",
+        "position": "PG",
+        "team": "OKC",
+        "total_points": 1590.6
+    },
+    {
+        "name": "Evan Mobley",
+        "position": "PF",
+        "team": "CLE",
+        "total_points": 1167.1
+    },
+    {
+        "name": "Zach LaVine",
+        "position": "SG",
+        "team": "CHI",
+        "total_points": 1015.7
+    },
+    {
+        "name": "Ivica Zubac",
+        "position": "C",
+        "team": "LAC",
+        "total_points": 1155.3
+    },
+    {
+        "name": "Anfernee Simons",
+        "position": "SG",
+        "team": "POR",
+        "total_points": 829.2
+    },
+    {
+        "name": "Deandre Ayton",
+        "position": "C",
+        "team": "POR",
+        "total_points": 679.2
+    },
+    {
+        "name": "Kristaps Porzingis",
+        "position": "C",
+        "team": "BOS",
+        "total_points": 373.3
+    },
+    {
+        "name": "Collin Sexton",
+        "position": "SG",
+        "team": "UTA",
+        "total_points": 790.8
+    },
+    {
+        "name": "Caris LeVert",
+        "position": "SG",
+        "team": "CLE",
+        "total_points": 640.8
+    },
+    {
+        "name": "Malik Beasley",
+        "position": "SG",
+        "team": "DET",
+        "total_points": 864.1
+    },
+    {
+        "name": "Ochai Agbaji",
+        "position": "SF",
+        "team": "TOR",
+        "total_points": 795.2
+    },
+    {
+        "name": "Tristan da Silva",
+        "position": "SF",
+        "team": "ORL",
+        "total_points": 441.7
+    },
+    {
+        "name": "Grayson Allen",
+        "position": "SG",
+        "team": "PHO",
+        "total_points": 510.3
+    },
+    {
+        "name": "Trayce Jackson-Davis",
+        "position": "PF",
+        "team": "GSW",
+        "total_points": 537.5
+    },
+    {
+        "name": "Jaime Jaquez Jr.",
+        "position": "SF",
+        "team": "MIA",
+        "total_points": 440.3
+    },
+    {
+        "name": "Scotty Pippen Jr.",
+        "position": "PG",
+        "team": "MEM",
+        "total_points": 783.9
+    },
+    {
+        "name": "Jared McCain",
+        "position": "SG",
+        "team": "PHL",
+        "total_points": 613.2
+    },
+    {
+        "name": "Scoot Henderson",
+        "position": "PG",
+        "team": "POR",
+        "total_points": 479.3
+    },
+    {
+        "name": "Al Horford",
+        "position": "C",
+        "team": "BOS",
+        "total_points": 542.6
+    },
+    {
+        "name": "Alex Caruso",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 395.2
+    },
+    {
+        "name": "Donovan Clingan",
+        "position": "C",
+        "team": "POR",
+        "total_points": 462.6
+    },
+    {
+        "name": "Zaccharie Risacher",
+        "position": "SF",
+        "team": "ATL",
+        "total_points": 613.7
+    },
+    {
+        "name": "Andre Drummond",
+        "position": "C",
+        "team": "PHL",
+        "total_points": 499.5
+    },
+    {
+        "name": "Marcus Smart",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 403.4
+    },
+    {
+        "name": "Bronny James",
+        "position": "PG",
+        "team": "LAL",
+        "total_points": 11.7
+    },
+    {
+        "name": "Moritz Wagner",
+        "position": "C",
+        "team": "ORL",
+        "total_points": 767.1
+    },
+    {
+        "name": "Tre Mann",
+        "position": "PG",
+        "team": "CHA",
+        "total_points": 341.6
+    },
+    {
+        "name": "Ty Jerome",
+        "position": "PG",
+        "team": "CLE",
+        "total_points": 690.7
+    },
+    {
+        "name": "Kelly Olynyk",
+        "position": "C",
+        "team": "TOR",
+        "total_points": 123.5
+    },
+    {
+        "name": "Rob Dillingham",
+        "position": "PG",
+        "team": "MIN",
+        "total_points": 113.2
+    },
+    {
+        "name": "Robert Williams III",
+        "position": "C",
+        "team": "POR",
+        "total_points": 240.1
+    },
+    {
+        "name": "Lonzo Ball",
+        "position": "PG",
+        "team": "CHI",
+        "total_points": 231.9
+    },
+    {
+        "name": "Max Strus",
+        "position": "SF",
+        "team": "CLE",
+        "total_points": 15.5
+    },
+    {
+        "name": "Spencer Dinwiddie",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 515.0
+    },
+    {
+        "name": "Jarred Vanderbilt",
+        "position": "PF",
+        "team": "LAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Miles McBride",
+        "position": "PG",
+        "team": "NYK",
+        "total_points": 536.0
+    },
+    {
+        "name": "Dorian Finney-Smith",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 494.9
+    },
+    {
+        "name": "Tre Jones",
+        "position": "PG",
+        "team": "SAS",
+        "total_points": 137.9
+    },
+    {
+        "name": "Jake LaRavia",
+        "position": "PF",
+        "team": "MEM",
+        "total_points": 706.2
+    },
+    {
+        "name": "Naji Marshall",
+        "position": "SF",
+        "team": "DAL",
+        "total_points": 560.3
+    },
+    {
+        "name": "Carlton Carrington",
+        "position": "PG",
+        "team": "WAS",
+        "total_points": 603.7
+    },
+    {
+        "name": "Cason Wallace",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 610.2
+    },
+    {
+        "name": "Isaiah Stewart",
+        "position": "C",
+        "team": "DET",
+        "total_points": 576.7
+    },
+    {
+        "name": "Duncan Robinson",
+        "position": "SF",
+        "team": "MIA",
+        "total_points": 548.6
+    },
+    {
+        "name": "De'Anthony Melton",
+        "position": "PG",
+        "team": "BKN",
+        "total_points": 144.5
+    },
+    {
+        "name": "Jalen Smith",
+        "position": "PF",
+        "team": "CHI",
+        "total_points": 519.4
+    },
+    {
+        "name": "Bojan Bogdanovic",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tim Hardaway Jr.",
+        "position": "SG",
+        "team": "DET",
+        "total_points": 469.6
+    },
+    {
+        "name": "Anthony Black",
+        "position": "PG",
+        "team": "ORL",
+        "total_points": 634.0
+    },
+    {
+        "name": "Jordan Hawkins",
+        "position": "SG",
+        "team": "NOP",
+        "total_points": 320.2
+    },
+    {
+        "name": "Jose Alvarado",
+        "position": "PG",
+        "team": "NOP",
+        "total_points": 296.8
+    },
+    {
+        "name": "Peyton Watson",
+        "position": "SF",
+        "team": "DEN",
+        "total_points": 550.6
+    },
+    {
+        "name": "Gary Trent Jr.",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 452.6
+    },
+    {
+        "name": "Kevon Looney",
+        "position": "C",
+        "team": "GSW",
+        "total_points": 492.6
+    },
+    {
+        "name": "Davion Mitchell",
+        "position": "PG",
+        "team": "TOR",
+        "total_points": 522.7
+    },
+    {
+        "name": "Patrick Williams",
+        "position": "PF",
+        "team": "CHI",
+        "total_points": 448.6
+    },
+    {
+        "name": "Matas Buzelis",
+        "position": "SF",
+        "team": "CHI",
+        "total_points": 359.3
+    },
+    {
+        "name": "Corey Kispert",
+        "position": "SF",
+        "team": "WAS",
+        "total_points": 461.7
+    },
+    {
+        "name": "Terance Mann",
+        "position": "SG",
+        "team": "LAC",
+        "total_points": 385.2
+    },
+    {
+        "name": "Derrick Jones Jr.",
+        "position": "SF",
+        "team": "LAC",
+        "total_points": 587.3
+    },
+    {
+        "name": "Dru Smith",
+        "position": "PG",
+        "team": "MIA",
+        "total_points": 258.5
+    },
+    {
+        "name": "Nickeil Alexander-Walker",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 581.4
+    },
+    {
+        "name": "Caleb Martin",
+        "position": "SG",
+        "team": "PHL",
+        "total_points": 427.5
+    },
+    {
+        "name": "Precious Achiuwa",
+        "position": "PF",
+        "team": "NYK",
+        "total_points": 135.4
+    },
+    {
+        "name": "Kyle Lowry",
+        "position": "PG",
+        "team": "PHL",
+        "total_points": 283.7
+    },
+    {
+        "name": "Aaron Nesmith",
+        "position": "SF",
+        "team": "IND",
+        "total_points": 120.3
+    },
+    {
+        "name": "Vasilije Micic",
+        "position": "PG",
+        "team": "CHA",
+        "total_points": 302.1
+    },
+    {
+        "name": "Kyle Anderson",
+        "position": "SF",
+        "team": "GSW",
+        "total_points": 395.9
+    },
+    {
+        "name": "Taurean Prince",
+        "position": "SF",
+        "team": "MIL",
+        "total_points": 541.5
+    },
+    {
+        "name": "Kel'el Ware",
+        "position": "C",
+        "team": "MIA",
+        "total_points": 95.6
+    },
+    {
+        "name": "Kris Dunn",
+        "position": "PG",
+        "team": "LAC",
+        "total_points": 635.2
+    },
+    {
+        "name": "Jay Huff",
+        "position": "C",
+        "team": "MEM",
+        "total_points": 552.5
+    },
+    {
+        "name": "Keon Ellis",
+        "position": "SG",
+        "team": "SAC",
+        "total_points": 497.9
+    },
+    {
+        "name": "Julian Strawther",
+        "position": "SF",
+        "team": "DEN",
+        "total_points": 488.1
+    },
+    {
+        "name": "Mitchell Robinson",
+        "position": "C",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jonathan Isaac",
+        "position": "PF",
+        "team": "ORL",
+        "total_points": 462.0
+    },
+    {
+        "name": "Seth Curry",
+        "position": "SG",
+        "team": "CHA",
+        "total_points": 261.7
+    },
+    {
+        "name": "Taylor Hendricks",
+        "position": "PF",
+        "team": "UTA",
+        "total_points": 59.0
+    },
+    {
+        "name": "Grant Williams",
+        "position": "PF",
+        "team": "CHA",
+        "total_points": 425.4
+    },
+    {
+        "name": "Kevin Love",
+        "position": "PF",
+        "team": "MIA",
+        "total_points": 246.7
+    },
+    {
+        "name": "Ronald Holland II",
+        "position": "SF",
+        "team": "DET",
+        "total_points": 383.3
+    },
+    {
+        "name": "Steven Adams",
+        "position": "C",
+        "team": "HOU",
+        "total_points": 118.9
+    },
+    {
+        "name": "Aaron Wiggins",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 544.0
+    },
+    {
+        "name": "Nikola Jovic",
+        "position": "PF",
+        "team": "MIA",
+        "total_points": 297.1
+    },
+    {
+        "name": "Bruce Brown",
+        "position": "SG",
+        "team": "TOR",
+        "total_points": 0.0
+    },
+    {
+        "name": "Sam Hauser",
+        "position": "SF",
+        "team": "BOS",
+        "total_points": 434.3
+    },
+    {
+        "name": "Bol Bol",
+        "position": "PF",
+        "team": "PHO",
+        "total_points": 39.7
+    },
+    {
+        "name": "Dalano Banton",
+        "position": "PG",
+        "team": "POR",
+        "total_points": 500.0
+    },
+    {
+        "name": "Ja'Kobe Walter",
+        "position": "SG",
+        "team": "TOR",
+        "total_points": 261.9
+    },
+    {
+        "name": "Elfrid Payton",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 177.3
+    },
+    {
+        "name": "Vince Williams Jr.",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 40.7
+    },
+    {
+        "name": "Cam Whitmore",
+        "position": "SF",
+        "team": "HOU",
+        "total_points": 97.2
+    },
+    {
+        "name": "GG Jackson II",
+        "position": "PF",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Amir Coffey",
+        "position": "SG",
+        "team": "LAC",
+        "total_points": 548.2
+    },
+    {
+        "name": "Paul Reed",
+        "position": "C",
+        "team": "DET",
+        "total_points": 221.9
+    },
+    {
+        "name": "Zach Collins",
+        "position": "C",
+        "team": "SAS",
+        "total_points": 377.5
+    },
+    {
+        "name": "Cameron Payne",
+        "position": "PG",
+        "team": "NYK",
+        "total_points": 418.8
+    },
+    {
+        "name": "Kyshawn George",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 416.0
+    },
+    {
+        "name": "Luke Kornet",
+        "position": "C",
+        "team": "BOS",
+        "total_points": 385.1
+    },
+    {
+        "name": "Kyle Filipowski",
+        "position": "PF",
+        "team": "UTA",
+        "total_points": 285.5
+    },
+    {
+        "name": "Moses Moody",
+        "position": "SG",
+        "team": "GSW",
+        "total_points": 308.6
+    },
+    {
+        "name": "Isaac Okoro",
+        "position": "SF",
+        "team": "CLE",
+        "total_points": 395.4
+    },
+    {
+        "name": "Ziaire Williams",
+        "position": "SF",
+        "team": "BKN",
+        "total_points": 414.9
+    },
+    {
+        "name": "Isaiah Joe",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 476.4
+    },
+    {
+        "name": "Dean Wade",
+        "position": "PF",
+        "team": "CLE",
+        "total_points": 399.2
+    },
+    {
+        "name": "Moussa Diabate",
+        "position": "PF",
+        "team": "CHA",
+        "total_points": 452.2
+    },
+    {
+        "name": "Bones Hyland",
+        "position": "PG",
+        "team": "LAC",
+        "total_points": 193.1
+    },
+    {
+        "name": "Cody Williams",
+        "position": "SG",
+        "team": "UTA",
+        "total_points": 143.4
+    },
+    {
+        "name": "Luke Kennard",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 311.2
+    },
+    {
+        "name": "Jamal Shead",
+        "position": "PG",
+        "team": "TOR",
+        "total_points": 349.9
+    },
+    {
+        "name": "Jalen Wilson",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 502.3
+    },
+    {
+        "name": "Marvin Bagley III",
+        "position": "PF",
+        "team": "WAS",
+        "total_points": 193.0
+    },
+    {
+        "name": "Mason Plumlee",
+        "position": "C",
+        "team": "PHO",
+        "total_points": 428.9
+    },
+    {
+        "name": "Javonte Green",
+        "position": "SF",
+        "team": "NOP",
+        "total_points": 465.4
+    },
+    {
+        "name": "Shake Milton",
+        "position": "SG",
+        "team": "BKN",
+        "total_points": 346.3
+    },
+    {
+        "name": "KJ Martin",
+        "position": "SF",
+        "team": "PHL",
+        "total_points": 367.7
+    },
+    {
+        "name": "Thanasis Antetokounmpo",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Haywood Highsmith",
+        "position": "SF",
+        "team": "MIA",
+        "total_points": 443.4
+    },
+    {
+        "name": "Jeremiah Robinson-Earl",
+        "position": "PF",
+        "team": "NOP",
+        "total_points": 474.7
+    },
+    {
+        "name": "Neemias Queta",
+        "position": "C",
+        "team": "BOS",
+        "total_points": 380.6
+    },
+    {
+        "name": "Mo Bamba",
+        "position": "C",
+        "team": "LAC",
+        "total_points": 213.9
+    },
+    {
+        "name": "Eric Gordon",
+        "position": "SG",
+        "team": "PHL",
+        "total_points": 205.1
+    },
+    {
+        "name": "Reggie Jackson",
+        "position": "PG",
+        "team": "PHL",
+        "total_points": 126.8
+    },
+    {
+        "name": "Gary Payton II",
+        "position": "SG",
+        "team": "GSW",
+        "total_points": 376.4
+    },
+    {
+        "name": "Rudy Gay",
+        "position": "PF",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "Saddiq Bey",
+        "position": "SF",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jarace Walker",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 468.7
+    },
+    {
+        "name": "Xavier Tillman",
+        "position": "PF",
+        "team": "BOS",
+        "total_points": 82.1
+    },
+    {
+        "name": "Tidjane Salaun",
+        "position": "PF",
+        "team": "CHA",
+        "total_points": 331.2
+    },
+    {
+        "name": "AJ Green",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 440.7
+    },
+    {
+        "name": "Christian Wood",
+        "position": "PF",
+        "team": "LAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Max Christie",
+        "position": "SG",
+        "team": "LAL",
+        "total_points": 397.3
+    },
+    {
+        "name": "Terrence Shannon Jr.",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 32.9
+    },
+    {
+        "name": "Ryan Dunn",
+        "position": "SF",
+        "team": "PHO",
+        "total_points": 328.7
+    },
+    {
+        "name": "Jordan Walsh",
+        "position": "SF",
+        "team": "BOS",
+        "total_points": 89.9
+    },
+    {
+        "name": "Jaxson Hayes",
+        "position": "C",
+        "team": "LAL",
+        "total_points": 190.5
+    },
+    {
+        "name": "Garrison Mathews",
+        "position": "SG",
+        "team": "ATL",
+        "total_points": 309.4
+    },
+    {
+        "name": "Charles Bassey",
+        "position": "C",
+        "team": "SAS",
+        "total_points": 302.5
+    },
+    {
+        "name": "Malaki Branham",
+        "position": "SG",
+        "team": "SAS",
+        "total_points": 227.5
+    },
+    {
+        "name": "Richaun Holmes",
+        "position": "C",
+        "team": "WAS",
+        "total_points": 24.5
+    },
+    {
+        "name": "Nikola Topic",
+        "position": "PG",
+        "team": "OKC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Matisse Thybulle",
+        "position": "SF",
+        "team": "POR",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jaylin Williams",
+        "position": "C",
+        "team": "OKC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Derrick Rose",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jaden Hardy",
+        "position": "SG",
+        "team": "DAL",
+        "total_points": 261.0
+    },
+    {
+        "name": "Isaiah Collier",
+        "position": "PG",
+        "team": "UTA",
+        "total_points": 195.3
+    },
+    {
+        "name": "Marcus Sasser",
+        "position": "PG",
+        "team": "DET",
+        "total_points": 282.8
+    },
+    {
+        "name": "Daniel Theis",
+        "position": "C",
+        "team": "NOP",
+        "total_points": 246.4
+    },
+    {
+        "name": "Josh Richardson",
+        "position": "SG",
+        "team": "MIA",
+        "total_points": 86.9
+    },
+    {
+        "name": "Nicolas Batum",
+        "position": "PF",
+        "team": "LAC",
+        "total_points": 355.2
+    },
+    {
+        "name": "Day'Ron Sharpe",
+        "position": "C",
+        "team": "BKN",
+        "total_points": 134.4
+    },
+    {
+        "name": "Isaiah Jackson",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 106.6
+    },
+    {
+        "name": "Talen Horton-Tucker",
+        "position": "SG",
+        "team": "CHI",
+        "total_points": 335.4
+    },
+    {
+        "name": "Devin Carter",
+        "position": "PG",
+        "team": "SAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Cam Reddish",
+        "position": "SF",
+        "team": "LAL",
+        "total_points": 251.6
+    },
+    {
+        "name": "Gabe Vincent",
+        "position": "PG",
+        "team": "LAL",
+        "total_points": 298.5
+    },
+    {
+        "name": "Jared Butler",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 238.8
+    },
+    {
+        "name": "David Roddy",
+        "position": "PF",
+        "team": "ATL",
+        "total_points": 198.9
+    },
+    {
+        "name": "Tyler Kolek",
+        "position": "PG",
+        "team": "NYK",
+        "total_points": 105.9
+    },
+    {
+        "name": "Lindy Waters III",
+        "position": "SG",
+        "team": "GSW",
+        "total_points": 333.4
+    },
+    {
+        "name": "Alec Burks",
+        "position": "SG",
+        "team": "MIA",
+        "total_points": 161.1
+    },
+    {
+        "name": "Simone Fontecchio",
+        "position": "SF",
+        "team": "DET",
+        "total_points": 363.2
+    },
+    {
+        "name": "Yuki Kawamura",
+        "position": "PG",
+        "team": "MEM",
+        "total_points": 25.9
+    },
+    {
+        "name": "DeAndre Jordan",
+        "position": "C",
+        "team": "DEN",
+        "total_points": 142.5
+    },
+    {
+        "name": "Monte Morris",
+        "position": "PG",
+        "team": "PHO",
+        "total_points": 247.5
+    },
+    {
+        "name": "Kenrich Williams",
+        "position": "SF",
+        "team": "OKC",
+        "total_points": 259.6
+    },
+    {
+        "name": "Andre Jackson Jr.",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 317.1
+    },
+    {
+        "name": "Jericho Sims",
+        "position": "C",
+        "team": "NYK",
+        "total_points": 239.7
+    },
+    {
+        "name": "Sam Merrill",
+        "position": "SG",
+        "team": "CLE",
+        "total_points": 384.4
+    },
+    {
+        "name": "Thomas Bryant",
+        "position": "C",
+        "team": "IND",
+        "total_points": 165.4
+    },
+    {
+        "name": "Pat Connaughton",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 200.2
+    },
+    {
+        "name": "Trey Lyles",
+        "position": "PF",
+        "team": "SAC",
+        "total_points": 309.9
+    },
+    {
+        "name": "James Wiseman",
+        "position": "C",
+        "team": "IND",
+        "total_points": 8.2
+    },
+    {
+        "name": "DaQuan Jeffries",
+        "position": "SG",
+        "team": "CHA",
+        "total_points": 99.7
+    },
+    {
+        "name": "Joe Ingles",
+        "position": "SF",
+        "team": "MIN",
+        "total_points": 13.9
+    },
+    {
+        "name": "Delon Wright",
+        "position": "PG",
+        "team": "MIL",
+        "total_points": 202.1
+    },
+    {
+        "name": "Gary Harris",
+        "position": "SG",
+        "team": "ORL",
+        "total_points": 163.1
+    },
+    {
+        "name": "Kris Murray",
+        "position": "PF",
+        "team": "POR",
+        "total_points": 216.3
+    },
+    {
+        "name": "Brice Sensabaugh",
+        "position": "SF",
+        "team": "UTA",
+        "total_points": 336.9
+    },
+    {
+        "name": "Ricky Council IV",
+        "position": "SG",
+        "team": "PHL",
+        "total_points": 230.1
+    },
+    {
+        "name": "Patrick Beverley",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Drew Eubanks",
+        "position": "C",
+        "team": "UTA",
+        "total_points": 288.4
+    },
+    {
+        "name": "Josh Okogie",
+        "position": "SF",
+        "team": "PHO",
+        "total_points": 231.3
+    },
+    {
+        "name": "Kobe Bufkin",
+        "position": "PG",
+        "team": "ATL",
+        "total_points": 113.2
+    },
+    {
+        "name": "Lonnie Walker IV",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tacko Fall",
+        "position": "C",
+        "team": "CLE",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dwight Powell",
+        "position": "C",
+        "team": "DAL",
+        "total_points": 133.3
+    },
+    {
+        "name": "Ajay Mitchell",
+        "position": "PG",
+        "team": "OKC",
+        "total_points": 344.9
+    },
+    {
+        "name": "Markelle Fultz",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dario Saric",
+        "position": "PF",
+        "team": "DEN",
+        "total_points": 101.5
+    },
+    {
+        "name": "Ben Sheppard",
+        "position": "SG",
+        "team": "IND",
+        "total_points": 219.4
+    },
+    {
+        "name": "John Konchar",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 159.0
+    },
+    {
+        "name": "Micah Potter",
+        "position": "C",
+        "team": "UTA",
+        "total_points": 99.3
+    },
+    {
+        "name": "Oso Ighodaro",
+        "position": "PF",
+        "team": "PHO",
+        "total_points": 261.6
+    },
+    {
+        "name": "Baylor Scheierman",
+        "position": "SG",
+        "team": "BOS",
+        "total_points": 14.9
+    },
+    {
+        "name": "Blake Griffin",
+        "position": "PF",
+        "team": "BOS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tristan Thompson",
+        "position": "C",
+        "team": "CLE",
+        "total_points": 77.4
+    },
+    {
+        "name": "Pacome Dadiet",
+        "position": "SF",
+        "team": "NYK",
+        "total_points": 54.1
+    },
+    {
+        "name": "Killian Hayes",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jaylon Tyson",
+        "position": "SG",
+        "team": "CLE",
+        "total_points": 97.4
+    },
+    {
+        "name": "Luka Garza",
+        "position": "C",
+        "team": "MIN",
+        "total_points": 57.2
+    },
+    {
+        "name": "Torrey Craig",
+        "position": "PF",
+        "team": "CHI",
+        "total_points": 69.6
+    },
+    {
+        "name": "Aaron Holiday",
+        "position": "PG",
+        "team": "HOU",
+        "total_points": 156.6
+    },
+    {
+        "name": "Andre Iguodala",
+        "position": "SF",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "Keon Johnson",
+        "position": "SG",
+        "team": "BKN",
+        "total_points": 351.1
+    },
+    {
+        "name": "Jaden Springer",
+        "position": "SG",
+        "team": "BOS",
+        "total_points": 32.9
+    },
+    {
+        "name": "Johnny Furphy",
+        "position": "SG",
+        "team": "IND",
+        "total_points": 144.0
+    },
+    {
+        "name": "Maxi Kleber",
+        "position": "PF",
+        "team": "DAL",
+        "total_points": 111.2
+    },
+    {
+        "name": "John Wall",
+        "position": "PG",
+        "team": "HOU",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jae Crowder",
+        "position": "PF",
+        "team": "SAC",
+        "total_points": 53.9
+    },
+    {
+        "name": "Thaddeus Young",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Trendon Watford",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 200.7
+    },
+    {
+        "name": "Leonard Miller",
+        "position": "SF",
+        "team": "MIN",
+        "total_points": 0.0
+    },
+    {
+        "name": "DaRon Holmes II",
+        "position": "PF",
+        "team": "DEN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Justin Holiday",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ousmane Dieng",
+        "position": "SF",
+        "team": "OKC",
+        "total_points": 172.4
+    },
+    {
+        "name": "Jalen Hood-Schifino",
+        "position": "SG",
+        "team": "LAL",
+        "total_points": 9.7
+    },
+    {
+        "name": "Jett Howard",
+        "position": "SF",
+        "team": "ORL",
+        "total_points": 225.8
+    },
+    {
+        "name": "Emoni Bates",
+        "position": "SF",
+        "team": "CLE",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dante Exum",
+        "position": "SG",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Isaiah Wong",
+        "position": "PG",
+        "team": "CHA",
+        "total_points": 92.9
+    },
+    {
+        "name": "Dillon Jones",
+        "position": "SF",
+        "team": "OKC",
+        "total_points": 134.9
+    },
+    {
+        "name": "Will Barton",
+        "position": "SF",
+        "team": "TOR",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ariel Hukporti",
+        "position": "C",
+        "team": "NYK",
+        "total_points": 73.9
+    },
+    {
+        "name": "Danilo Gallinari",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "P.J. Tucker",
+        "position": "PF",
+        "team": "LAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Gordon Hayward",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Pelle Larsson",
+        "position": "SG",
+        "team": "MIA",
+        "total_points": 209.4
+    },
+    {
+        "name": "Victor Oladipo",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "AJ Johnson",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 11.4
+    },
+    {
+        "name": "Dariq Whitehead",
+        "position": "SF",
+        "team": "BKN",
+        "total_points": 38.6
+    },
+    {
+        "name": "Jeff Green",
+        "position": "PF",
+        "team": "HOU",
+        "total_points": 34.3
+    },
+    {
+        "name": "Patty Mills",
+        "position": "PG",
+        "team": "UTA",
+        "total_points": 85.1
+    },
+    {
+        "name": "Jae'Sean Tate",
+        "position": "SF",
+        "team": "HOU",
+        "total_points": 89.3
+    },
+    {
+        "name": "Kai Jones",
+        "position": "PF",
+        "team": "LAC",
+        "total_points": 138.3
+    },
+    {
+        "name": "Boban Marjanovic",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Leaky Black",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Johnny Davis",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 180.2
+    },
+    {
+        "name": "Julian Phillips",
+        "position": "SF",
+        "team": "CHI",
+        "total_points": 333.0
+    },
+    {
+        "name": "Josh Minott",
+        "position": "SF",
+        "team": "MIN",
+        "total_points": 105.7
+    },
+    {
+        "name": "Jalen Pickett",
+        "position": "SG",
+        "team": "DEN",
+        "total_points": 31.0
+    },
+    {
+        "name": "Olivier-Maxence Prosper",
+        "position": "PF",
+        "team": "DAL",
+        "total_points": 93.3
+    },
+    {
+        "name": "Isaiah Thomas",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Antonio Reeves",
+        "position": "SG",
+        "team": "NOP",
+        "total_points": 123.4
+    },
+    {
+        "name": "Kobe Brown",
+        "position": "PF",
+        "team": "LAC",
+        "total_points": 51.7
+    },
+    {
+        "name": "Wang Zhelin",
+        "position": "C",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jalen McDaniels",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tristan Vukcevic",
+        "position": "PF",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Craig Porter Jr.",
+        "position": "SG",
+        "team": "CLE",
+        "total_points": 139.7
+    },
+    {
+        "name": "Tyler Smith",
+        "position": "SF",
+        "team": "MIL",
+        "total_points": 44.6
+    },
+    {
+        "name": "Cody Zeller",
+        "position": "C",
+        "team": "ATL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Mac McClung",
+        "position": "SG",
+        "team": "ORL",
+        "total_points": 4.2
+    },
+    {
+        "name": "Serge Ibaka",
+        "position": "C",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "JD Davison",
+        "position": "PG",
+        "team": "BOS",
+        "total_points": 7.4
+    },
+    {
+        "name": "Jordan Miller",
+        "position": "SF",
+        "team": "LAC",
+        "total_points": 214.0
+    },
+    {
+        "name": "Johnny Juzang",
+        "position": "SG",
+        "team": "UTA",
+        "total_points": 322.0
+    },
+    {
+        "name": "Adem Bona",
+        "position": "C",
+        "team": "PHL",
+        "total_points": 75.4
+    },
+    {
+        "name": "JaVale McGee",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Paul Zipser",
+        "position": "SF",
+        "team": "CHI",
+        "total_points": 0.0
+    },
+    {
+        "name": "PJ Dozier",
+        "position": "PG",
+        "team": "MIN",
+        "total_points": 21.0
+    },
+    {
+        "name": "MarJon Beauchamp",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 42.6
+    },
+    {
+        "name": "Dalen Terry",
+        "position": "SF",
+        "team": "CHI",
+        "total_points": 256.7
+    },
+    {
+        "name": "Bobi Klintman",
+        "position": "PF",
+        "team": "DET",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jaylen Nowell",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 131.5
+    },
+    {
+        "name": "Christian Koloko",
+        "position": "C",
+        "team": "LAL",
+        "total_points": 121.6
+    },
+    {
+        "name": "Hunter Tyson",
+        "position": "SF",
+        "team": "DEN",
+        "total_points": 120.2
+    },
+    {
+        "name": "Doug McDermott",
+        "position": "SF",
+        "team": "SAC",
+        "total_points": 149.7
+    },
+    {
+        "name": "Nick Smith Jr.",
+        "position": "SG",
+        "team": "CHA",
+        "total_points": 88.2
+    },
+    {
+        "name": "JaMychal Green",
+        "position": "PF",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "Marcus Zegarowski",
+        "position": "PG",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jabari Walker",
+        "position": "PF",
+        "team": "POR",
+        "total_points": 192.7
+    },
+    {
+        "name": "Jevon Carter",
+        "position": "PG",
+        "team": "CHI",
+        "total_points": 52.8
+    },
+    {
+        "name": "James Johnson",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 13.3
+    },
+    {
+        "name": "Kemba Walker",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Damion Lee",
+        "position": "SF",
+        "team": "PHO",
+        "total_points": 31.5
+    },
+    {
+        "name": "Joe Young",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jordan McLaughlin",
+        "position": "PG",
+        "team": "SAC",
+        "total_points": 126.3
+    },
+    {
+        "name": "Montrezl Harrell",
+        "position": "C",
+        "team": "PHL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Danny Green",
+        "position": "SF",
+        "team": "PHL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Maxwell Lewis",
+        "position": "SF",
+        "team": "LAL",
+        "total_points": 10.4
+    },
+    {
+        "name": "Alex Len",
+        "position": "C",
+        "team": "SAC",
+        "total_points": 139.0
+    },
+    {
+        "name": "Tyrese Martin",
+        "position": "SF",
+        "team": "BKN",
+        "total_points": 186.2
+    },
+    {
+        "name": "Moses Wright",
+        "position": "PF",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Chris Duarte",
+        "position": "SG",
+        "team": "CHI",
+        "total_points": 58.3
+    },
+    {
+        "name": "Devonte' Graham",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Landry Shamet",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Rade Zagorac",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Mouhamed Gueye",
+        "position": "PF",
+        "team": "ATL",
+        "total_points": 2.9
+    },
+    {
+        "name": "Patric Young",
+        "position": "C",
+        "team": "NOP",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jamal Cain",
+        "position": "SF",
+        "team": "NOP",
+        "total_points": 189.0
+    },
+    {
+        "name": "Jamison Battle",
+        "position": "SF",
+        "team": "TOR",
+        "total_points": 329.4
+    },
+    {
+        "name": "Davis Bertans",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Colby Jones",
+        "position": "SG",
+        "team": "SAC",
+        "total_points": 80.8
+    },
+    {
+        "name": "Reggie Bullock Jr.",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Robin Lopez",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Udonis Haslem",
+        "position": "PF",
+        "team": "MIA",
+        "total_points": 0.0
+    },
+    {
+        "name": "JT Thor",
+        "position": "PF",
+        "team": "CLE",
+        "total_points": 49.1
+    },
+    {
+        "name": "Wendell Moore Jr.",
+        "position": "SF",
+        "team": "DET",
+        "total_points": 154.9
+    },
+    {
+        "name": "Sandro Mamukelashvili",
+        "position": "PF",
+        "team": "SAS",
+        "total_points": 209.5
+    },
+    {
+        "name": "Oscar Tshiebwe",
+        "position": "C",
+        "team": "UTA",
+        "total_points": 17.8
+    },
+    {
+        "name": "Austin Rivers",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tristen Newton",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 2.0
+    },
+    {
+        "name": "McKinley Wright IV",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Josh Christopher",
+        "position": "SG",
+        "team": "MIA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Aleksej Pokusevski",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Zeke Nnaji",
+        "position": "PF",
+        "team": "DEN",
+        "total_points": 41.9
+    },
+    {
+        "name": "Jock Landale",
+        "position": "C",
+        "team": "HOU",
+        "total_points": 154.4
+    },
+    {
+        "name": "Harrison Ingram",
+        "position": "SF",
+        "team": "SAS",
+        "total_points": 0.7
+    },
+    {
+        "name": "Zhou Qi",
+        "position": "C",
+        "team": "HOU",
+        "total_points": 0.0
+    },
+    {
+        "name": "Vit Krejci",
+        "position": "PG",
+        "team": "ATL",
+        "total_points": 130.0
+    },
+    {
+        "name": "Bismack Biyombo",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Isaac Jones",
+        "position": "PF",
+        "team": "SAC",
+        "total_points": 149.7
+    },
+    {
+        "name": "Chris Livingston",
+        "position": "SF",
+        "team": "MIL",
+        "total_points": 8.4
+    },
+    {
+        "name": "Kevin McCullar Jr.",
+        "position": "SF",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "Taj Gibson",
+        "position": "PF",
+        "team": "CHA",
+        "total_points": 125.5
+    },
+    {
+        "name": "AJ Griffin",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Kessler Edwards",
+        "position": "SF",
+        "team": "DAL",
+        "total_points": -1.3
+    },
+    {
+        "name": "Cam Spencer",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 49.4
+    },
+    {
+        "name": "Anton Watson",
+        "position": "PF",
+        "team": "BOS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Matt Ryan",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 18.9
+    },
+    {
+        "name": "Ryan Rollins",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 139.8
+    },
+    {
+        "name": "Terrence Ross",
+        "position": "SG",
+        "team": "PHO",
+        "total_points": 0.0
+    },
+    {
+        "name": "Isaiah Roby",
+        "position": "PF",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "Marcus Morris Sr.",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Robert Covington",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Goran Dragic",
+        "position": "PG",
+        "team": "MIL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Nate Wolters",
+        "position": "PG",
+        "team": "UTA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Oshae Brissett",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Karlo Matkovic",
+        "position": "PF",
+        "team": "NOP",
+        "total_points": 30.5
+    },
+    {
+        "name": "TyTy Washington Jr.",
+        "position": "PG",
+        "team": "PHO",
+        "total_points": 23.7
+    },
+    {
+        "name": "Robert Woodard II",
+        "position": "SF",
+        "team": "OKC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Cassius Winston",
+        "position": "PG",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ish Smith",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Quinten Post",
+        "position": "C",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "Bruno Fernando",
+        "position": "C",
+        "team": "TOR",
+        "total_points": 183.0
+    },
+    {
+        "name": "Enrique Freeman",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 56.4
+    },
+    {
+        "name": "Joshua Primo",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Gui Santos",
+        "position": "SF",
+        "team": "GSW",
+        "total_points": 18.9
+    },
+    {
+        "name": "Malachi Flynn",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Blake Wesley",
+        "position": "SG",
+        "team": "SAS",
+        "total_points": 195.3
+    },
+    {
+        "name": "Duop Reath",
+        "position": "C",
+        "team": "POR",
+        "total_points": 66.6
+    },
+    {
+        "name": "Moses Brown",
+        "position": "C",
+        "team": "FA",
+        "total_points": 55.1
+    },
+    {
+        "name": "James Nnaji",
+        "position": "C",
+        "team": "CHA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Anthony Lamb",
+        "position": "SF",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "KJ Simpson",
+        "position": "PG",
+        "team": "CHA",
+        "total_points": 91.0
+    },
+    {
+        "name": "Mike Muscala",
+        "position": "C",
+        "team": "OKC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dennis Smith Jr.",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Rayan Rupert",
+        "position": "SG",
+        "team": "POR",
+        "total_points": 159.8
+    },
+    {
+        "name": "Nigel Hayes",
+        "position": "SF",
+        "team": "SAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Nassir Little",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "George Hill",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ricky Rubio",
+        "position": "PG",
+        "team": "CLE",
+        "total_points": 0.0
+    },
+    {
+        "name": "James Michael McAdoo",
+        "position": "PF",
+        "team": "PHL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Quenton Jackson",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 229.4
+    },
+    {
+        "name": "Facundo Campazzo",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "James Bouknight",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Caleb Houstan",
+        "position": "SF",
+        "team": "ORL",
+        "total_points": 46.3
+    },
+    {
+        "name": "Kendrick Nunn",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Colin Castleton",
+        "position": "C",
+        "team": "MEM",
+        "total_points": 20.9
+    },
+    {
+        "name": "Svi Mykhailiuk",
+        "position": "SG",
+        "team": "UTA",
+        "total_points": 99.0
+    },
+    {
+        "name": "Sidy Cissoko",
+        "position": "SG",
+        "team": "SAS",
+        "total_points": 30.1
+    },
+    {
+        "name": "Sterling Brown",
+        "position": "SG",
+        "team": "LAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Markieff Morris",
+        "position": "PF",
+        "team": "DAL",
+        "total_points": 14.5
+    },
+    {
+        "name": "Vlatko Cancar",
+        "position": "SF",
+        "team": "DEN",
+        "total_points": 23.1
+    },
+    {
+        "name": "Joe Harris",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Frank Kaminsky",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Cory Joseph",
+        "position": "PG",
+        "team": "ORL",
+        "total_points": 78.5
+    },
+    {
+        "name": "Sharife Cooper",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Evan Fournier",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jaylen Clark",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Juancho Hernangomez",
+        "position": "PF",
+        "team": "TOR",
+        "total_points": 0.0
+    },
+    {
+        "name": "Kenneth Lofton Jr.",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Kevin Knox II",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Raul Neto",
+        "position": "PG",
+        "team": "CLE",
+        "total_points": 0.0
+    },
+    {
+        "name": "Chuma Okeke",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Patrick Baldwin Jr.",
+        "position": "SF",
+        "team": "WAS",
+        "total_points": 57.9
+    },
+    {
+        "name": "Brandon Williams",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 9.3
+    },
+    {
+        "name": "Garrett Temple",
+        "position": "SG",
+        "team": "TOR",
+        "total_points": 30.8
+    },
+    {
+        "name": "Mike James",
+        "position": "PG",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Matthew Dellavedova",
+        "position": "PG",
+        "team": "SAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Terence Davis",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jordan Goodwin",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "T.J. Warren",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Nerlens Noel",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Satnam Singh Bhamara",
+        "position": "C",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dominick Barlow",
+        "position": "PF",
+        "team": "ATL",
+        "total_points": 8.7
+    },
+    {
+        "name": "Jack White",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Seth Lundy",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "James Webb III",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Isaiah Mobley",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Kira Lewis Jr.",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Hamidou Diallo",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Cedi Osman",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dylan Windler",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Michael Carter-Williams",
+        "position": "PG",
+        "team": "ORL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ulrich Chomche",
+        "position": "C",
+        "team": "TOR",
+        "total_points": 4.2
+    },
+    {
+        "name": "Cam Christie",
+        "position": "SG",
+        "team": "LAC",
+        "total_points": 14.1
+    },
+    {
+        "name": "Adama Sanogo",
+        "position": "C",
+        "team": "CHI",
+        "total_points": 18.2
+    },
+    {
+        "name": "Jalen Slawson",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Rakeem Christmas",
+        "position": "PF",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "D.J. Wilson",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Drew Peterson",
+        "position": "SF",
+        "team": "BOS",
+        "total_points": 57.2
+    },
+    {
+        "name": "Anthony Gill",
+        "position": "PF",
+        "team": "WAS",
+        "total_points": 104.5
+    },
+    {
+        "name": "Trey Jemison III",
+        "position": "C",
+        "team": "NOP",
+        "total_points": 128.3
+    },
+    {
+        "name": "Cat Barber",
+        "position": "PG",
+        "team": "ATL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Malik Williams",
+        "position": "C",
+        "team": "MIA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Mindaugas Kuzminskas",
+        "position": "PF",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "Willy Hernangomez",
+        "position": "C",
+        "team": "NOP",
+        "total_points": 0.0
+    },
+    {
+        "name": "Saben Lee",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Amari Bailey",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Usman Garuba",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Stanley Johnson",
+        "position": "SF",
+        "team": "SAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jabari Brown",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Bryn Forbes",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jeff Dowtin Jr.",
+        "position": "PG",
+        "team": "PHL",
+        "total_points": 63.6
+    },
+    {
+        "name": "Collin Gillespie",
+        "position": "PG",
+        "team": "PHO",
+        "total_points": 4.5
+    },
+    {
+        "name": "Darius Bazley",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Cleanthony Early",
+        "position": "SF",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "David Nwaba",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jarron Cumberland",
+        "position": "SG",
+        "team": "POR",
+        "total_points": 0.0
+    },
+    {
+        "name": "Gorgui Dieng",
+        "position": "C",
+        "team": "SAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Quinn Cook",
+        "position": "PG",
+        "team": "SAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jamil Wilson",
+        "position": "PF",
+        "team": "LAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Orlando Robinson",
+        "position": "C",
+        "team": "SAC",
+        "total_points": 47.9
+    },
+    {
+        "name": "Meyers Leonard",
+        "position": "C",
+        "team": "MIL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Keaton Wallace",
+        "position": "PG",
+        "team": "ATL",
+        "total_points": 171.3
+    },
+    {
+        "name": "Javon Freeman-Liberty",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Anthony Brown",
+        "position": "SF",
+        "team": "PHL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Troy Williams",
+        "position": "SF",
+        "team": "SAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "DJ Stephens",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Justin Jackson",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "James Nunnally",
+        "position": "SG",
+        "team": "NOP",
+        "total_points": 0.0
+    },
+    {
+        "name": "Keyontae Johnson",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Sasha Vezenkov",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Anthony Tolliver",
+        "position": "PF",
+        "team": "NOP",
+        "total_points": 0.0
+    },
+    {
+        "name": "Keita Bates-Diop",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Damian Jones",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Walt Lemon Jr.",
+        "position": "PG",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "Shaquille Harrison",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Lester Quinones",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 13.3
+    },
+    {
+        "name": "David Stockton",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Shabazz Muhammad",
+        "position": "SF",
+        "team": "MIL",
+        "total_points": 0.0
+    },
+    {
+        "name": "C.J. Williams",
+        "position": "SF",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Stanley Umude",
+        "position": "SG",
+        "team": "MIL",
+        "total_points": 17.7
+    },
+    {
+        "name": "Brad Wanamaker",
+        "position": "PG",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Mason Jones",
+        "position": "SG",
+        "team": "SAC",
+        "total_points": 14.3
+    },
+    {
+        "name": "Daishen Nix",
+        "position": "PG",
+        "team": "MIN",
+        "total_points": 4.8
+    },
+    {
+        "name": "Chimezie Metu",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Andrew White III",
+        "position": "SG",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "R.J. Hampton",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Frank Ntilikina",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dewayne Dedmon",
+        "position": "C",
+        "team": "PHL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Carlik Jones",
+        "position": "PG",
+        "team": "CHI",
+        "total_points": 0.0
+    },
+    {
+        "name": "Cristiano Felicio",
+        "position": "C",
+        "team": "CHI",
+        "total_points": 0.0
+    },
+    {
+        "name": "DeVaughn Akoon-Purcell",
+        "position": "SG",
+        "team": "OKC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Johnathan Williams",
+        "position": "C",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Diamond Stone",
+        "position": "C",
+        "team": "CHI",
+        "total_points": 0.0
+    },
+    {
+        "name": "Shawn Long",
+        "position": "PF",
+        "team": "HOU",
+        "total_points": 0.0
+    },
+    {
+        "name": "J.J. Barea",
+        "position": "PG",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Furkan Korkmaz",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Wenyen Gabriel",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ish Wainright",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Georgios Papagiannis",
+        "position": "C",
+        "team": "POR",
+        "total_points": 0.0
+    },
+    {
+        "name": "Ron Baker",
+        "position": "SG",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Luke Travers",
+        "position": "SG",
+        "team": "CLE",
+        "total_points": 27.7
+    },
+    {
+        "name": "Matt Williams Jr.",
+        "position": "SG",
+        "team": "MIA",
+        "total_points": 0.0
+    },
+    {
+        "name": "E.J. Liddell",
+        "position": "PF",
+        "team": "CHI",
+        "total_points": 36.0
+    },
+    {
+        "name": "Luka Samanic",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Olivier Sarr",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Allonzo Trier",
+        "position": "SG",
+        "team": "NYK",
+        "total_points": 0.0
+    },
+    {
+        "name": "Will Cherry",
+        "position": "SG",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "Joel Bolomboy",
+        "position": "PF",
+        "team": "MIL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Okaro White",
+        "position": "PF",
+        "team": "WAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Pat Spencer",
+        "position": "PG",
+        "team": "GSW",
+        "total_points": 52.4
+    },
+    {
+        "name": "Jarrett Culver",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Udoka Azubuike",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tony Bradley",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Monta Ellis",
+        "position": "SG",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "Greg Whittington",
+        "position": "SF",
+        "team": "DEN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Alan Williams",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Tarik Biberovic",
+        "position": "PF",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Skylar Mays",
+        "position": "SG",
+        "team": "MIN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Alec Brown",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Omer Yurtseven",
+        "position": "C",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jay Scrubb",
+        "position": "SG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Mojave King",
+        "position": "SG",
+        "team": "IND",
+        "total_points": 0.0
+    },
+    {
+        "name": "Edmond Sumner",
+        "position": "SG",
+        "team": "CHA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Zoran Dragic",
+        "position": "SG",
+        "team": "BOS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Bryce Cotton",
+        "position": "SG",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Vander Blue",
+        "position": "SG",
+        "team": "LAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Yogi Ferrell",
+        "position": "SG",
+        "team": "LAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "Shane Larkin",
+        "position": "PG",
+        "team": "BOS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Sim Bhullar",
+        "position": "C",
+        "team": "SAC",
+        "total_points": 0.0
+    },
+    {
+        "name": "David Johnson",
+        "position": "PG",
+        "team": "MEM",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jarrod Uthoff",
+        "position": "PF",
+        "team": "NOP",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jacob Wiley",
+        "position": "SF",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Xavier Sneed",
+        "position": "SF",
+        "team": "CHA",
+        "total_points": 0.0
+    },
+    {
+        "name": "David Duke Jr.",
+        "position": "SG",
+        "team": "SAS",
+        "total_points": 4.5
+    },
+    {
+        "name": "Julian Washburn",
+        "position": "SF",
+        "team": "GSW",
+        "total_points": 0.0
+    },
+    {
+        "name": "Noah Vonleh",
+        "position": "PF",
+        "team": "SAS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Lamar Stevens",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Harry Giles III",
+        "position": "PF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Danuel House Jr.",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Juan Toscano-Anderson",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Dee Bost",
+        "position": "PG",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Zylan Cheatham",
+        "position": "SF",
+        "team": "FA",
+        "total_points": 0.0
+    },
+    {
+        "name": "Joe Wieskamp",
+        "position": "SF",
+        "team": "DAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jemerrio Jones",
+        "position": "SF",
+        "team": "LAL",
+        "total_points": 0.0
+    },
+    {
+        "name": "Lance Thomas",
+        "position": "PF",
+        "team": "BKN",
+        "total_points": 0.0
+    },
+    {
+        "name": "Derrick Walton Jr.",
+        "position": "PG",
+        "team": "DET",
+        "total_points": 0.0
+    },
+    {
+        "name": "Coty Clarke",
+        "position": "PF",
+        "team": "BOS",
+        "total_points": 0.0
+    },
+    {
+        "name": "Jameel Warney",
+        "position": "PF",
+        "team": "DAL",
+        "total_points": 0.0
+    }
+]
