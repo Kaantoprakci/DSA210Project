@@ -1,6 +1,8 @@
 from collections import Counter
 from espn_api.basketball import League
 import compare_weeks
+import predict_player
+import fetch_all_player
 
 # Replace with your details
 league_id = 1937531242  # Your league ID
@@ -16,8 +18,10 @@ espn_s2 = ("AEB2Uek%2Bx6CDTjgULvGa%2BcklRISl%2BVN0YAI4jWV0gl9KOoy"
 # Connect to your league
 league = League(league_id=league_id, year=season_year, swid=swid, espn_s2=espn_s2)
 
+fetch_all_player.fetch_all_player(league)
+
 # Initiate the weeks to analyze
-total_weeks = 9
+total_weeks = 10
 position_frequencies = Counter()
 
 # Loop through all weeks to analyze position contributions
@@ -36,3 +40,5 @@ print("\nFinal Analysis:")
 print("Position Frequencies Across Weeks:", dict(position_frequencies))
 print("Most Frequent Highest-Contributing Position(s):",
       [pos for pos, freq in most_frequent_positions if freq == most_frequent_positions[0][1]])
+
+predict_player.predict_player(league, most_frequent_positions)

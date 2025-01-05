@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -11,6 +13,9 @@ def get_lineup(box_scores, name):
     return []
 
 def compare_weeks(league, current_week):
+    # Ensure the 'figures' directory exists
+    os.makedirs("figures", exist_ok=True)
+
     # Init. the previous week
     previous_week = current_week - 1
 
