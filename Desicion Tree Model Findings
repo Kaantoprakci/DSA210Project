@@ -1,0 +1,83 @@
+Decision Tree Model for Player Prediction
+
+Objective
+The Decision Tree model predicts the best free agents to add to my NBA Fantasy team. It evaluates player statistics, positional relevance, and historical performance data to identify players who are likely to maximize my team's weekly fantasy points.
+
+Steps in Building the Model
+1. Fetching Free Agent Data
+
+Source: Data is retrieved from the ESPN Fantasy Basketball API, specifically focusing on free agents.
+Data Fields:
+Player metadata: Name, position, NBA team.
+Player statistics: Rebounds, assists, steals, blocks, turnovers.
+Purpose: This data forms the input for our model to predict the fantasy points contributions of free agents.
+2. Historical Player Data
+
+Historical player performance data is used to train the model.
+Key Columns in historical_player_data.csv:
+Player: Name of the player.
+Position: Player's primary position (e.g., PG, SG, C).
+Team: NBA team the player belongs to.
+Rebounds, Assists, Steals, Blocks, Turnovers: Statistical features.
+Fantasy_Points: The target variable, representing the player's weekly fantasy point contributions.
+3. Positional Relevance
+
+Purpose: Positions like PF and C that historically contribute the most to my team’s success are given higher importance in the model.
+Implementation:
+Positional relevance is derived from most_frequent_positions, based on weekly findings.
+A normalized relevance score is assigned to each position and added as a feature (Positional_Relevance).
+4. Data Preprocessing
+
+Preprocessing Pipeline:
+Numerical Features:
+Standardized using StandardScaler.
+Includes: Rebounds, Assists, Steals, Blocks, Turnovers, and Positional_Relevance.
+Categorical Features:
+Encoded using OneHotEncoder.
+Includes: Position, Team.
+5. Model Training
+
+Model: A DecisionTreeRegressor is used to predict the Fantasy_Points for free agents.
+Training Data:
+Input (X): Features from historical player data (numerical and categorical).
+Output (y): Fantasy points from historical data.
+6. Predicting Free Agent Contributions
+
+Predictions are made for all free agents in the league.
+Each player receives a Predicted_Fantasy_Points value, indicating their expected weekly contribution.
+7. Player Recommendations
+
+Players are ranked based on their predicted fantasy points.
+The top 5 players are recommended, with an emphasis on positions that historically perform better.
+
+
+In our analysis:
+
+Weekly Positional Contributions:
+Positions like PF (Power Forward) and C (Center) consistently contributed the most to the overall team performance across multiple weeks.
+Weekly findings highlighted these positions as crucial for maximizing fantasy points.
+Decision Tree Model's Recommendations:
+Despite the findings favoring PF and C, the Decision Tree model prioritized PG (Point Guard) positions in its top predictions.
+Out of the top 5 recommended free agents, 3 were PGs, and only 2 were from the C position.
+
+
+
+Top Free Agents to Add:
+               Player       Position  Predicted_Fantasy_Points
+135      Nikola Topic             PG                   188.48
+143     Ajay Mitchell            PG                   188.48
+249  Christian Koloko             C                   170.07
+153      Gabe Vincent            PG                   170.07
+125      Jaxson Hayes             C                   170.07
+
+
+
+Analysis of the Discrepancy
+Bias in Training Data:
+The training dataset (historical_player_data.csv) may have had a higher representation of PGs or historically higher fantasy point contributions for PGs.
+This imbalance could have skewed the model's predictions towards PGs.
+Feature Weighting in Decision Tree:
+Features like assists and steals, where PGs often excel, may have been given more importance in the Decision Tree model.
+Even though Positional_Relevance was added, its impact might not have been strong enough to shift predictions towards PFs and Cs.
+Positional Availability in Free Agents:
+The free agent pool may have had more high-performing PGs available, leading to a natural favoring of PGs during prediction.
