@@ -105,4 +105,30 @@ This dataset provides a comprehensive foundation for understanding how roster ch
 
 2. **Interactive Tool Development**:
    - Build an interactive tool or web application that allows users to input their team data and receive position-based recommendations for player additions.
+  
+## Player Prediction Using Decision Tree Model
+
+### Overview
+I built a Decision Tree model to help me predict and recommend the best free agents for my NBA Fantasy team. By analyzing player statistics, positional relevance, and historical performance data, this model helps me prioritize impactful players and optimize my team's performance.
+
+---
+
+### Key Steps
+1. **Data Collection**:
+   - I fetch free agent data (e.g., rebounds, assists, blocks) using the ESPN API.
+   - I also use historical player performance data for training the model.
+
+2. **Positional Relevance**:
+   - Based on my weekly analysis, I prioritize positions that contribute the most to my team's success (e.g., PF, C).
+   - These insights are incorporated into the predictions to improve accuracy.
+
+3. **Model Training**:
+   - I train a Decision Tree Regressor using historical player data to predict fantasy point contributions.
+   - The model uses statistical features and positional relevance to make predictions.
+
+4. **Player Recommendation**:
+   - The model predicts and ranks free agents based on their expected fantasy point contributions.
+   - I receive a list of the top 5 players to consider adding, focusing on positions that historically matter the most.
+
+
 
